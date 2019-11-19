@@ -16,33 +16,33 @@ Course 1: Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/ac
   8. [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/8-last%20digit%20of%20the%20sum%20of%20squares%20of%20Fibonacci%20numbers.py)
 
 **Greedy Algorithms**
-  1. Money Change
-  2. Maximum Value of the Loot
-  3. Car Fueling
-  4. Maximum Advertisement Revenue
-  5. Collecting Signatures
-  6. Maximum Number of Prizes
-  7. Maximum Salary
+  1. [Money Change](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week3-Greedy%20Algorithms/1-money%20change.py)
+  2. [Maximum Value of the Loot](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week3-Greedy%20Algorithms/2-max%20value%20of%20the%20loot.py)
+  3. [Car Fueling](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week3-Greedy%20Algorithms/3-car%20fueling.py)
+  4. [Maximum Advertisement Revenue](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week3-Greedy%20Algorithms/4-max%20advertisement%20revenue.py)
+  5. [Collecting Signatures](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week3-Greedy%20Algorithms/5-collecting_signatures.py)
+  6. [Maximum Number of Prizes](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week3-Greedy%20Algorithms/6-max%20number%20of%20prizes.py)
+  7. [Maximum Salary](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week3-Greedy%20Algorithms/7-max%20salary.py)
 
 **Divide and Conquer**
-  1. Binary Search
-  1. Majority Element
-  3. Improving Quick Sort
-  4. Number of Inversions
-  5. Organizing a Lottery
-  6. Closest Points
+  1. [Binary Search](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/1-binary%20search.py)
+  2. [Majority Element](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/2-majority%20element.py)
+  3. [Improving Quick Sort](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/3-3-way%20quick%20sort.py)
+  4. [Number of Inversions](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/4-number%20of%20inversions.py)
+  5. [Organizing a Lottery](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/5-organizing_a_lottery_faster.py)
+  6. [Closest Points](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/6-closest%20points.py)
 
 **Dynamic Programming 1**
-  1. Money Change Again
-  2. Primitive Calculator
-  3. Edit Distance
-  4. Longest Common Subsequence of Two Sequences
-  5. Longest Common Subsequence of Three Sequences
+  1. [Money Change Again](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week5-Dynamic%20Programming%201/1-money%20change%20agian.py)
+  2. [Primitive Calculator](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week5-Dynamic%20Programming%201/2-primitive%20operations.py)
+  3. [Edit Distance](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week5-Dynamic%20Programming%201/3-edit%20distance.py)
+  4. [Longest Common Subsequence of Two Sequences](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week5-Dynamic%20Programming%201/4-longest%20common%20subsequence%20of%202%20sequences.py)
+  5. [Longest Common Subsequence of Three Sequences](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week5-Dynamic%20Programming%201/5-longest%20common%20subsequence%20of%203%20sequences.py)
 
 **Dynamic Programming 2**
-  1. Maximum Amount of Gold
-  2. Partitioning Souvenirs
-  3. Maximum Value of an Arithmetic Expression
+  1. [Maximum Amount of Gold]
+  2. [Partitioning Souvenirs]
+  3. [Maximum Value of an Arithmetic Expression]
 
 Course 2: Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/verify/SNXB3ZMZXNTD))
 -
