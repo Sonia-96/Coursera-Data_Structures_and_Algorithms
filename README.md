@@ -44,7 +44,7 @@ Course 1: Algorithmic Toolbox [[Certificate]](https://www.coursera.org/account/a
   2. [Partitioning Souvenirs](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week6-Dynamic%20Programming%202/2-partitioning%20souvenirs.py)
   3. [Maximum Value of an Arithmetic Expression](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week6-Dynamic%20Programming%202/3-maximum%20value%20of%20an%20arithmetic%20expression.py)
 
-Course 2: Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/verify/SNXB3ZMZXNTD))
+Course 2: Data Structures [[Certificate]](https://www.coursera.org/account/accomplishments/verify/SNXB3ZMZXNTD)
 -
 
 **Basic Data Structures**
@@ -74,7 +74,7 @@ Course 2: Data Structures ([Certificate](https://www.coursera.org/account/accomp
   4. [Set with range sums](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/4-splay%20tree.py)
   5. Rope [[naive method]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/5-naive.py) [[rope structure]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/5-rope%20structure.py)
 
-Course 3: Algorithms on Graphs ([Certificate](https://www.coursera.org/account/accomplishments/verify/P7UWAE5Z4NAJ))
+Course 3: Algorithms on Graphs [[Certificate]](https://www.coursera.org/account/accomplishments/verify/P7UWAE5Z4NAJ)
 -
 
 **Undirected Graphs**
@@ -99,7 +99,7 @@ Course 3: Algorithms on Graphs ([Certificate](https://www.coursera.org/account/a
   1. [Building Roads to Connect Cities](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week5-Minimum%20Spanning%20Trees/1-connecting%20points.py)
   2. [Clustering](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week5-Minimum%20Spanning%20Trees/2-clustering.py)
 
-Course 4: Algorithms on Strings([Certificate](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX))
+Course 4: Algorithms on Strings [[Certificate]](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX)
 -
 
 **Suffix Trees**
@@ -121,7 +121,7 @@ Course 4: Algorithms on Strings([Certificate](https://www.coursera.org/account/a
   3. [Pattern Matching with the Suffix Array](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/3-suffix%20array%20matching.py)
   4. [Advanced Problem: Construct the Suffix Tree from the Suffix Array](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/4-suffix%20tree%20from%20array.py)
 
-Course 5: Advanced Algorithms and Complexity([Certificate](https://www.coursera.org/account/accomplishments/verify/A78PQPN5KJAB))
+Course 5: Advanced Algorithms and Complexity [[Certificate]](https://www.coursera.org/account/accomplishments/verify/A78PQPN5KJAB)
 -
 
 **Flows in Networks**
