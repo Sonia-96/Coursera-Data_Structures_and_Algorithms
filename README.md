@@ -29,7 +29,7 @@ Course 1: Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/ac
   2. [Majority Element](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/2-majority%20element.py)
   3. [Improving Quick Sort](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/3-3-way%20quick%20sort.py)
   4. [Number of Inversions](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/4-number%20of%20inversions.py)
-  5. [Organizing a Lottery](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/5-organizing_a_lottery_faster.py)
+  5. Organizing a Lottery [[naive]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/5-organizing%20a%20lottery_naive.py) [[faster]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/5-organizing_a_lottery_faster.py)
   6. [Closest Points](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week4-Divide%20and%20Conquer/6-closest%20points.py)
 
 **Dynamic Programming 1**
@@ -40,9 +40,9 @@ Course 1: Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/ac
   5. [Longest Common Subsequence of Three Sequences](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week5-Dynamic%20Programming%201/5-longest%20common%20subsequence%20of%203%20sequences.py)
 
 **Dynamic Programming 2**
-  1. [Maximum Amount of Gold]
-  2. [Partitioning Souvenirs]
-  3. [Maximum Value of an Arithmetic Expression]
+  1. [Maximum Amount of Gold](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week6-Dynamic%20Programming%202/1-maximum%20amount%20of%20gold.py)
+  2. [Partitioning Souvenirs](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week6-Dynamic%20Programming%202/2-partitioning%20souvenirs.py)
+  3. [Maximum Value of an Arithmetic Expression](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week6-Dynamic%20Programming%202/3-maximum%20value%20of%20an%20arithmetic%20expression.py)
 
 Course 2: Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/verify/SNXB3ZMZXNTD))
 -
