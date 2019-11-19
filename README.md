@@ -6,14 +6,14 @@ Course 1: Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/ac
 -
 
 **Algorithmic Warm-up**
-  1. Fibonacci Number
-  2. Last Digit of a Large Fibonacci Number
-  3. Greatest Common Divisor
-  4. Least Common Multiple
-  5. Fibonacci Number Again
-  6. Last Digit of the Sum of Fibonacci Numbers
-  7. Last Digit of the Sum of Fibonacci Numbers Again
-  8. Last Digit of the Sum of Squares of Fibonacci Numbers
+  1. [Fibonacci Number](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/1-Fibonacci%20Number.py)
+  2. [Last Digit of a Large Fibonacci Number](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/2-last%20digit%20of%20a%20large%20fibonacci%20number.py)
+  3. [Greatest Common Divisor](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/3-greatest%20common%20divisor.py)
+  4. [Least Common Multiple](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/4-least%20common%20multiple.py)
+  5. [Fibonacci Number Again](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/5-Fibonacci%20number%20again.py)
+  6. [Last Digit of the Sum of Fibonacci Numbers](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/6-last%20digit%20of%20the%20sum%20of%20fibonacci%20numbers.py)
+  7. [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/7-last%20digit%20of%20the%20sum%20of%20fibonacci%20numbers%20again.py)
+  8. [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/1-Algorithmic%20Toolbox/Week1-Algorithmic%20Warm-up/8-last%20digit%20of%20the%20sum%20of%20squares%20of%20Fibonacci%20numbers.py)
 
 **Greedy Algorithms**
   1. Money Change
