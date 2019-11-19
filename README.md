@@ -48,99 +48,99 @@ Course 2: Data Structures ([Certificate](https://www.coursera.org/account/accomp
 -
 
 **Basic Data Structures**
-  1. Check brackets in the code
-  2. Compute tree height
-  3. Network packet processing simulation
-  4. Extending stack interface
-  5. Maximum in Sliding Window
+  1. [Check brackets in the code](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week1-Basic%20Data%20Structures/1-check%20brackets%20in%20the%20code.py)
+  2. [Compute tree height](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week1-Basic%20Data%20Structures/2-compute%20tree%20height.py)
+  3. [Network packet processing simulation](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week1-Basic%20Data%20Structures/3-packet%20processing.py)
+  4. [Extending stack interface](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week1-Basic%20Data%20Structures/4-extending%20stack%20interface.py)
+  5. [Maximum in Sliding Window](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week1-Basic%20Data%20Structures/5-maximum%20in%20sliding%20window.py)
 
 **Priority Queues and Disjoint Sets**
-  1. Convert array into heap
-  2. Parallel processing
-  3. Merging tables
+  1. [Convert array into heap](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week3-Priority%20Queues%20and%20Disjoint%20Sets/1-convert%20array%20into%20heap.py)
+  2. [Parallel processing](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week3-Priority%20Queues%20and%20Disjoint%20Sets/2-parallel%20processing.py)
+  3. [Merging tables](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week3-Priority%20Queues%20and%20Disjoint%20Sets/3-merging%20tables.py)
 
 **Hash Tables and Hash Functions**
-  1. Phone book
-  2. Hashing with chains
-  3. Find pattern in text
-  4. Substring equality
-  5. Longest common substring
-  6. Pattern matching with mismatches
+  1. [Phone book](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week4-Hash%20Tables%20and%20Hash%20Functions/1-phone%20book.py)
+  2. [Hashing with chains](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week4-Hash%20Tables%20and%20Hash%20Functions/2-hashing%20with%20chains.py)
+  3. [Find pattern in text](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week4-Hash%20Tables%20and%20Hash%20Functions/3-find%20pattern%20in%20text.py)
+  4. [Substring equality](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week4-Hash%20Tables%20and%20Hash%20Functions/4-substring%20equality.py)
+  5. [Longest common substring](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week4-Hash%20Tables%20and%20Hash%20Functions/5-longest%20common%20substring.py)
+  6. [Pattern matching with mismatches](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week4-Hash%20Tables%20and%20Hash%20Functions/6-pattern%20matching%20with%20mismatches.py)
 
 **Binary Search Trees**
-  1. Binary tree traversals
-  2. Is it a binary search tree?
-  3. Is it a binary search tree? Hard version
-  4. Set with range sums
-  5. Rope
+  1. [Binary tree traversals](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week4-Hash%20Tables%20and%20Hash%20Functions/6-pattern%20matching%20with%20mismatches.py)
+  2. Is it a binary search tree? [[in-order traversal]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/2-is%20binary%20search%20tree.py) [[min/max constraint]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/2-min%20max%20method.py)
+  3. [Is it a binary search tree? Hard version](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/3-is%20bst%20hard.py)
+  4. [Set with range sums](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/4-splay%20tree.py)
+  5. Rope [[naive method]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/5-naive.py) [[rope structure]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/2-Data%20Structures/Week6-Binary%20Search%20Trees/5-rope%20structure.py)
 
 Course 3: Algorithms on Graphs ([Certificate](https://www.coursera.org/account/accomplishments/verify/P7UWAE5Z4NAJ))
 -
 
 **Undirected Graphs**
-  1. Finding an Exit from a Maze
-  2. Adding Exits to a Maze
+  1. [Finding an Exit from a Maze]()
+  2. [Adding Exits to a Maze]()
 
 **Directed Graphs**
-  1. Checking Consistency of CS Curriculum
-  2. Determining an Order of Courses
-  3. Advanced Problem: Checking Whether Any Intersection in a City is Reachable from Any Other
+  1. [Checking Consistency of CS Curriculum]()
+  2. [Determining an Order of Courses]()
+  3. [Advanced Problem: Checking Whether Any Intersection in a City is Reachable from Any Other]()
 
 **Most Direct Route**
-  1. Computing the Minimum Number of Flight Segments
-  2. Checking whether a Graph is Bipartite
+  1. [Computing the Minimum Number of Flight Segments]()
+  2. [Checking whether a Graph is Bipartite]()
 
 **Fastest Route**
-  1. Computing the Minimum Cost of a Flight
-  2. Detecting Anomalies in Currency Exchange Rates
-  3. Advanced Problem: Exchanging Money Optimally
+  1. [Computing the Minimum Cost of a Flight]()
+  2. [Detecting Anomalies in Currency Exchange Rates]()
+  3. [Advanced Problem: Exchanging Money Optimally]()
 
 **Minimum Spanning Trees**
-  1. Building Roads to Connect Cities
-  2. Clustering
+  1. [Building Roads to Connect Cities]()
+  2. [Clustering]()
 
 Course 4: Algorithms on Strings([Certificate](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX))
 -
 
 **Suffix Trees**
-  1. Construct a Trie from a Collection of Patterns
-  2. Implement TrieMatching
-  3. Extend TrieMatching
-  4. Construct the Suffix Tree of a String
-  5. Advanced Problem: Find the Shortest Non-Shared Substring of Two Strings
+  1. [Construct a Trie from a Collection of Patterns]()
+  2. [Implement TrieMatching]()
+  3. [Extend TrieMatching]()
+  4. [Construct the Suffix Tree of a String]()
+  5. [Advanced Problem: Find the Shortest Non-Shared Substring of Two Strings]()
 
 **Burrows–Wheeler Transform and Suffix Arrays**
-  1. Construct the Burrows–Wheeler Transform of a String
-  2. Reconstruct a String from its Burrows–Wheeler Transform
-  3. Implement BetterBWMatching
-  4. Construct the Suffix Array of a String
+  1. [Construct the Burrows–Wheeler Transform of a String]()
+  2. [Reconstruct a String from its Burrows–Wheeler Transform]()
+  3. [Implement BetterBWMatching]()
+  4. [Construct the Suffix Array of a String]()
 
 **Algorithmic Challenges**
-  1. Find All Occurrences of a Pattern in a String
-  2. Construct the Suffix Array of a Long String
-  3. Pattern Matching with the Suffix Array
-  4. Advanced Problem: Construct the Suffix Tree from the Suffix Array
+  1. [Find All Occurrences of a Pattern in a String]()
+  2. [Construct the Suffix Array of a Long String]()
+  3. [Pattern Matching with the Suffix Array]()
+  4. [Advanced Problem: Construct the Suffix Tree from the Suffix Array]()
 
 Course 5: Advanced Algorithms and Complexity([Certificate](https://www.coursera.org/account/accomplishments/verify/A78PQPN5KJAB))
 -
 
 **Flows in Networks**
-  1. Evacuating People
-  2. Assigning Airline Crews to Flights
-  3. Advanced Problem: Stock Charts
+  1. [Evacuating People]()
+  2. [Assigning Airline Crews to Flights]()
+  3. [Advanced Problem: Stock Charts]()
 
 **Linear Programming**
-  1. Infer Energy Values of Ingredients
-  2. Optimal Diet Problem
-  3. Advanced Problem: Online Advertisement Allocation
+  1. [Infer Energy Values of Ingredients]()
+  2. [Optimal Diet Problem]()
+  3. [Advanced Problem: Online Advertisement Allocation]()
 
 **NP-completeness**
-  1. Assign Frequencies to the Cells of a GSM Network
-  2. Cleaning the Apartment
-  3. Advanced Problem: Advertisement Budget Allocation
+  1. [Assign Frequencies to the Cells of a GSM Network]()
+  2. [Cleaning the Apartment]()
+  3. [Advanced Problem: Advertisement Budget Allocation]()
 
 **Coping with NP-completeness**
-  1. Integrated Circuit Design
-  2. Plan a Fun Party
-  3. School Bus
-  4. Advanced Problem: Reschedule the Exams
+  1. [Integrated Circuit Design]()
+  2. [Plan a Fun Party]()
+  3. [School Bus]()
+  4. [Advanced Problem: Reschedule the Exams]()
