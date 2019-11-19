@@ -78,69 +78,69 @@ Course 3: Algorithms on Graphs ([Certificate](https://www.coursera.org/account/a
 -
 
 **Undirected Graphs**
-  1. [Finding an Exit from a Maze]()
-  2. [Adding Exits to a Maze]()
+  1. [Finding an Exit from a Maze](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week1-Undirected%20Graphs/1-reachability.py)
+  2. [Adding Exits to a Maze](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week1-Undirected%20Graphs/2-connected%20components.py)
 
 **Directed Graphs**
-  1. [Checking Consistency of CS Curriculum]()
-  2. [Determining an Order of Courses]()
-  3. [Advanced Problem: Checking Whether Any Intersection in a City is Reachable from Any Other]()
+  1. [Checking Consistency of CS Curriculum](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week2-Directed%20Graphs/1-directed%20acyclic%20graphs.py)
+  2. [Determining an Order of Courses](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week2-Directed%20Graphs/2-topological%20sort.py)
+  3. [Advanced Problem: Checking Whether Any Intersection in a City is Reachable from Any Other](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week2-Directed%20Graphs/3-strongly%20connected%20components.py)
 
 **Most Direct Route**
-  1. [Computing the Minimum Number of Flight Segments]()
-  2. [Checking whether a Graph is Bipartite]()
+  1. [Computing the Minimum Number of Flight Segments](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week3-Most%20Direct%20Route/1-breath%20first%20search.py)
+  2. [Checking whether a Graph is Bipartite](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week3-Most%20Direct%20Route/2-bipartite.py)
 
 **Fastest Route**
-  1. [Computing the Minimum Cost of a Flight]()
-  2. [Detecting Anomalies in Currency Exchange Rates]()
-  3. [Advanced Problem: Exchanging Money Optimally]()
+  1. [Computing the Minimum Cost of a Flight](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week4-Fastest%20Route/1-Dijkstra_min-heap.py)
+  2. [Detecting Anomalies in Currency Exchange Rates](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week4-Fastest%20Route/2-negative%20cycle.py)
+  3. [Advanced Problem: Exchanging Money Optimally](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week4-Fastest%20Route/3-infinite%20arbitrage.py)
 
 **Minimum Spanning Trees**
-  1. [Building Roads to Connect Cities]()
-  2. [Clustering]()
+  1. [Building Roads to Connect Cities](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week5-Minimum%20Spanning%20Trees/1-connecting%20points.py)
+  2. [Clustering](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/3-Algorithms%20on%20Graphs/Week5-Minimum%20Spanning%20Trees/2-clustering.py)
 
 Course 4: Algorithms on Strings([Certificate](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX))
 -
 
 **Suffix Trees**
-  1. [Construct a Trie from a Collection of Patterns]()
-  2. [Implement TrieMatching]()
-  3. [Extend TrieMatching]()
-  4. [Construct the Suffix Tree of a String]()
-  5. [Advanced Problem: Find the Shortest Non-Shared Substring of Two Strings]()
+  1. [Construct a Trie from a Collection of Patterns](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week1-Suffix%20Trees/1-constrcut%20a%20Trie%20from%20patterns.py)
+  2. [Implement TrieMatching](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week1-Suffix%20Trees/2-TrieMatching.py)
+  3. [Extend TrieMatching](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week1-Suffix%20Trees/3-Extend%20TrieMatching.py)
+  4. [Construct the Suffix Tree of a String](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week1-Suffix%20Trees/4-construct%20the%20suffix%20tree%20of%20a%20string.py)
+  5. [Advanced Problem: Find the Shortest Non-Shared Substring of Two Strings](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week1-Suffix%20Trees/5-shortest%20non-shared%20substring.py)
 
 **Burrows–Wheeler Transform and Suffix Arrays**
-  1. [Construct the Burrows–Wheeler Transform of a String]()
-  2. [Reconstruct a String from its Burrows–Wheeler Transform]()
-  3. [Implement BetterBWMatching]()
-  4. [Construct the Suffix Array of a String]()
+  1. [Construct the Burrows–Wheeler Transform of a String](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week2-Burrows%E2%80%93Wheeler%20Transform%20and%20Suffix%20Arrays/1-construct%20BWT.py)
+  2. [Reconstruct a String from its Burrows–Wheeler Transform](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week2-Burrows%E2%80%93Wheeler%20Transform%20and%20Suffix%20Arrays/2-invert%20BWT.py)
+  3. [Implement BetterBWMatching](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week2-Burrows%E2%80%93Wheeler%20Transform%20and%20Suffix%20Arrays/3-BWmatching.py)
+  4. [Construct the Suffix Array of a String](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week2-Burrows%E2%80%93Wheeler%20Transform%20and%20Suffix%20Arrays/4-suffix%20array.py)
 
 **Algorithmic Challenges**
-  1. [Find All Occurrences of a Pattern in a String]()
-  2. [Construct the Suffix Array of a Long String]()
-  3. [Pattern Matching with the Suffix Array]()
-  4. [Advanced Problem: Construct the Suffix Tree from the Suffix Array]()
+  1. [Find All Occurrences of a Pattern in a String](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/1-Knuth%20Morris%20Pratt.py)
+  2. [Construct the Suffix Array of a Long String](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/2-suffix%20array%20for%20a%20long%20string.py)
+  3. [Pattern Matching with the Suffix Array](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/3-suffix%20array%20matching.py)
+  4. [Advanced Problem: Construct the Suffix Tree from the Suffix Array](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/4-Algorithms%20on%20Strings/Week4-Algorithmic%20Challenges/4-suffix%20tree%20from%20array.py)
 
 Course 5: Advanced Algorithms and Complexity([Certificate](https://www.coursera.org/account/accomplishments/verify/A78PQPN5KJAB))
 -
 
 **Flows in Networks**
-  1. [Evacuating People]()
-  2. [Assigning Airline Crews to Flights]()
-  3. [Advanced Problem: Stock Charts]()
+  1. [Evacuating People](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week1-Flows%20in%20Networks/1-max%20flow.py)
+  2. [Assigning Airline Crews to Flights](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week1-Flows%20in%20Networks/2-bipartite%20matching.py)
+  3. [Advanced Problem: Stock Charts](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week1-Flows%20in%20Networks/3-stock%20charts.py)
 
 **Linear Programming**
-  1. [Infer Energy Values of Ingredients]()
-  2. [Optimal Diet Problem]()
-  3. [Advanced Problem: Online Advertisement Allocation]()
+  1. Infer Energy Values of Ingredients [[1]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1-Gaussian%20Elimination.py) [2](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1b.py)
+  2. [Optimal Diet Problem](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/2-LP%20brute%20force.py)
+  3. [Advanced Problem: Online Advertisement Allocation (Two-Phase Simplex)](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/3-Two-Phase%20Simplex.py)
 
 **NP-completeness**
-  1. [Assign Frequencies to the Cells of a GSM Network]()
-  2. [Cleaning the Apartment]()
-  3. [Advanced Problem: Advertisement Budget Allocation]()
+  1. [Assign Frequencies to the Cells of a GSM Network](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week3-NP-completeness/1-3-color%20to%20SAT.py)
+  2. [Cleaning the Apartment](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week3-NP-completeness/2-Hamitonian%20path%20to%20SAT.py)
+  3. [Advanced Problem: Advertisement Budget Allocation](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week3-NP-completeness/3-binary%20LP%20to%20SAT.py)
 
 **Coping with NP-completeness**
-  1. [Integrated Circuit Design]()
-  2. [Plan a Fun Party]()
-  3. [School Bus]()
-  4. [Advanced Problem: Reschedule the Exams]()
+  1. [Integrated Circuit Design](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/1-integrated%20circuit.py)
+  2. [Plan a Fun Party](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/2-bidirectional%20edge.py)
+  3. [School Bus (Traveling Salesman)](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/3-traveling%20salesman.py)
+  4. [Advanced Problem: Reschedule the Exams](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week4-Coping%20with%20NP-completeness/4-reschedule%20exam.py)
