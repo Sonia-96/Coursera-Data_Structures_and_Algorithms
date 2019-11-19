@@ -2,7 +2,7 @@
 My solutions to assignments of [Data structures and algorithms](https://www.coursera.org/specializations/data-structures-algorithms) (by UCSD and HSE) on Coursera. 
 All problems from course 1 to course 5 have been solved.
 
-Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/accomplishments/certificate/P7UWAE5Z4NAJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate))
+Course 1: Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/accomplishments/certificate/P7UWAE5Z4NAJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate))
 -
 
 **Algorithmic Warm-up**
@@ -44,7 +44,7 @@ Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/accomplishme
   2. Partitioning Souvenirs
   3. Maximum Value of an Arithmetic Expression
 
-Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/verify/SNXB3ZMZXNTD))
+Course 2: Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/verify/SNXB3ZMZXNTD))
 -
 
 **Basic Data Structures**
@@ -74,7 +74,7 @@ Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/
   4. Set with range sums
   5. Rope
 
-Algorithms on Graphs ([Certificate](https://www.coursera.org/account/accomplishments/verify/P7UWAE5Z4NAJ))
+Course 3: Algorithms on Graphs ([Certificate](https://www.coursera.org/account/accomplishments/verify/P7UWAE5Z4NAJ))
 -
 
 **Undirected GraphS**
@@ -99,14 +99,27 @@ Algorithms on Graphs ([Certificate](https://www.coursera.org/account/accomplishm
   1. Building Roads to Connect Cities
   2. Clustering
 
-**Advanced Shortest Paths**
-  1. Compute Distance Faster Using Coordinates
-  2. Compute Distance with Preprocessing
-  3. Advanced Problem: Compute Distance with Preprocessing on Larger Road Networks
-  4. Advanced Problem: Travelling Salesman Problem
-
-Algorithms on Strings([Certificate](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX))
+Course 4: Algorithms on Strings([Certificate](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX))
 -
 
-Advanced Algorithms and Complexity([Certificate](https://www.coursera.org/account/accomplishments/verify/A78PQPN5KJAB))
+**Suffix Trees**
+1. Construct a Trie from a Collection of Patterns
+2. Implement TrieMatching
+3. Extend TrieMatching
+4. Construct the Suffix Tree of a String
+5. Advanced Problem: Find the Shortest Non-Shared Substring of Two Strings
+
+**Burrows–Wheeler Transform and Suffix Arrays**
+1. Construct the Burrows–Wheeler Transform of a String
+2. Reconstruct a String from its Burrows–Wheeler Transform
+3. Implement BetterBWMatching
+4. Construct the Suffix Array of a String
+
+**Algorithmic Challenges**
+1. Find All Occurrences of a Pattern in a String
+2. Construct the Suffix Array of a Long String
+3. Pattern Matching with the Suffix Array
+4. Advanced Problem: Construct the Suffix Tree from the Suffix Array
+
+Course 5: Advanced Algorithms and Complexity([Certificate](https://www.coursera.org/account/accomplishments/verify/A78PQPN5KJAB))
 -
