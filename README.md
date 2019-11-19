@@ -2,7 +2,7 @@
 My solutions to assignments of [Data structures and algorithms](https://www.coursera.org/specializations/data-structures-algorithms) (by UCSD and HSE) on Coursera. 
 All problems from course 1 to course 5 have been solved.
 
-Course 1: Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/accomplishments/certificate/P7UWAE5Z4NAJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate))
+Course 1: Algorithmic Toolbox [[Certificate]](https://www.coursera.org/account/accomplishments/certificate/P7UWAE5Z4NAJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
 -
 
 **Algorithmic Warm-up**
@@ -130,7 +130,7 @@ Course 5: Advanced Algorithms and Complexity([Certificate](https://www.coursera.
   3. [Advanced Problem: Stock Charts](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week1-Flows%20in%20Networks/3-stock%20charts.py)
 
 **Linear Programming**
-  1. Infer Energy Values of Ingredients [[1]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1-Gaussian%20Elimination.py) [2](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1b.py)
+  1. Infer Energy Values of Ingredients [[1]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1-Gaussian%20Elimination.py) [[2]](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/1b.py)
   2. [Optimal Diet Problem](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/2-LP%20brute%20force.py)
   3. [Advanced Problem: Online Advertisement Allocation (Two-Phase Simplex)](https://github.com/Sonia-96/Coursera-Data-Structures-and-Algorithms/blob/master/5-Advanced%20Algorithms%20and%20Complexity/Week2-Linear%20Programming/3-Two-Phase%20Simplex.py)
 
