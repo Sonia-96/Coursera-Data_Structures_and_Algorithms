@@ -4,9 +4,6 @@ All problems from course 1 to course 5 have been solved.
 
 Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/accomplishments/certificate/P7UWAE5Z4NAJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate))
 -
-**Introduction**
-  1. Sum of Two Digits
-  2. Maximum Pairwise Product
 
 **Algorithmic Warm-up**
   1. Fibonacci Number
@@ -50,8 +47,36 @@ Algorithmic Toolbox ([Certificate](https://www.coursera.org/account/accomplishme
 Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/verify/SNXB3ZMZXNTD))
 -
 
+**Basic Data Structures**
+1. Check brackets in the code
+2. Compute tree height
+3. Network packet processing simulation
+4. Extending stack interface
+5. Maximum in Sliding Window
+
+**Priority Queues and Disjoint Sets**
+1. Convert array into heap
+2. Parallel processing
+3. Merging tables
+
+**Hash Tables and Hash Functions**
+1. Phone book
+2. Hashing with chains
+3. Find pattern in text
+4. Substring equality
+5. Longest common substring
+6. Pattern matching with mismatches
+
+**Binary Search Trees**
+1. Binary tree traversals
+2. Is it a binary search tree?
+3. Is it a binary search tree? Hard version
+4. Set with range sums
+5. Rope
+
 Algorithms on Graphs ([Certificate](https://www.coursera.org/account/accomplishments/verify/P7UWAE5Z4NAJ))
 -
+
 
 Algorithms on Strings([Certificate](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX))
 -
