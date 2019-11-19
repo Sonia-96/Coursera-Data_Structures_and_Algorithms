@@ -48,35 +48,62 @@ Data Structures ([Certificate](https://www.coursera.org/account/accomplishments/
 -
 
 **Basic Data Structures**
-1. Check brackets in the code
-2. Compute tree height
-3. Network packet processing simulation
-4. Extending stack interface
-5. Maximum in Sliding Window
+  1. Check brackets in the code
+  2. Compute tree height
+  3. Network packet processing simulation
+  4. Extending stack interface
+  5. Maximum in Sliding Window
 
 **Priority Queues and Disjoint Sets**
-1. Convert array into heap
-2. Parallel processing
-3. Merging tables
+  1. Convert array into heap
+  2. Parallel processing
+  3. Merging tables
 
 **Hash Tables and Hash Functions**
-1. Phone book
-2. Hashing with chains
-3. Find pattern in text
-4. Substring equality
-5. Longest common substring
-6. Pattern matching with mismatches
+  1. Phone book
+  2. Hashing with chains
+  3. Find pattern in text
+  4. Substring equality
+  5. Longest common substring
+  6. Pattern matching with mismatches
 
 **Binary Search Trees**
-1. Binary tree traversals
-2. Is it a binary search tree?
-3. Is it a binary search tree? Hard version
-4. Set with range sums
-5. Rope
+  1. Binary tree traversals
+  2. Is it a binary search tree?
+  3. Is it a binary search tree? Hard version
+  4. Set with range sums
+  5. Rope
 
 Algorithms on Graphs ([Certificate](https://www.coursera.org/account/accomplishments/verify/P7UWAE5Z4NAJ))
 -
 
+**Undirected GraphS**
+  1. Finding an Exit from a Maze
+  2. Adding Exits to a Maze
+
+**Directed Graphs**
+  1. Checking Consistency of CS Curriculum
+  2. Determining an Order of Courses
+  3. Advanced Problem: Checking Whether Any Intersection in a City is Reachable from Any Other
+
+**Most Direct Route**
+  1. Computing the Minimum Number of Flight Segments
+  2. Checking whether a Graph is Bipartite
+
+**Fastest Route**
+  1. Computing the Minimum Cost of a Flight
+  2. Detecting Anomalies in Currency Exchange Rates
+  3. Advanced Problem: Exchanging Money Optimally
+
+**Minimum Spanning Trees**
+  1. Building Roads to Connect Cities
+  2. Clustering
+
+**Advanced Shortest Paths**
+  1. Compute Distance Faster Using Coordinates
+  2. Compute Distance with Preprocessing
+  3. Advanced Problem: Compute Distance with Preprocessing on Larger Road Networks
+  4. Advanced Problem: Travelling Salesman Problem
 
 Algorithms on Strings([Certificate](https://www.coursera.org/account/accomplishments/verify/PW9Y4GH4SPTX))
 -
